@@ -1,4 +1,4 @@
-Dragon Reborn
+**Dragon Reborn:**
 
 **Dragon Reborn** is an expansion mod for **Ice and Fire: Dragons**, focused on enhancing, rebalancing, and extending existing mechanics while staying true to the original mod’s vision.
 
@@ -6,7 +6,7 @@ The mod aims to improve gameplay depth, progression, and balance by introducing 
 
 ---
 
-Features
+**Features:**
 
 - Expanded dragon-related mechanics  
 - New items designed to deepen interaction with dragons  
@@ -15,7 +15,7 @@ Features
 
 ---
 
-Credits and Licenses
+**Credits and Licenses:**
 
 - Ice and Fire Dragons — GNU Lesser General Public License (LGPL)
   This mod uses item and ID data from Ice and Fire Dragons, licensed under LGPL.
@@ -23,13 +23,13 @@ Credits and Licenses
 
 ---
 
-Disclaimer
+**Disclaimer:**
 
 This mod was developed specifically for the Cytel-MC modpack and may not receive updates for newer Minecraft versions.
 
 ---
 
-Additional Resources
+**Additional Resources:**
 
 - Minecraft Forge Documentation: https://docs.minecraftforge.net/
 - Forge Forums: https://forums.minecraftforge.net/
